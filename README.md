@@ -1,6 +1,3 @@
-# Mern-E-Book-Store
-It is a basic e-commerce web application where all kinds of books are sold with verified payment page
-
 # 📚 Bookworm Bookshelf
 
 **Bookworm Bookshelf** is  designed to enhance the online reading experience by offering users a digital bookstore and a curated blog section.
